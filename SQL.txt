@@ -1,4 +1,4 @@
-
+'This module is designed for PostreSQL'
 
 INSERT INTO Country (id_country, name) VALUES (1, N'Россия');
 INSERT INTO Country (id_country, name) VALUES (2, N'Беларусь');
